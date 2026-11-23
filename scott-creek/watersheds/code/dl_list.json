@@ -1,0 +1,938 @@
+[
+{
+"tag": "1993",
+"title": "NAPP_2C_6354-10",
+"b": "1993_NAPP_2C_6354-10",
+"x": 563873,
+"y": 4105514,
+"foot": 9140,
+"url": "https://mil.library.ucsb.edu/ap_images/napp-2c/napp-2c_6354-10.tif"
+},
+{
+"tag": "1993",
+"title": "NAPP_2C_6354-16",
+"b": "1993_NAPP_2C_6354-16",
+"x": 569428,
+"y": 4105558,
+"foot": 9140,
+"url": "https://mil.library.ucsb.edu/ap_images/napp-2c/napp-2c_6354-16.tif"
+},
+{
+"tag": "1993",
+"title": "NAPP_2C_6354-18",
+"b": "1993_NAPP_2C_6354-18",
+"x": 569371,
+"y": 4112492,
+"foot": 9140,
+"url": "https://mil.library.ucsb.edu/ap_images/napp-2c/napp-2c_6354-18.tif"
+},
+{
+"tag": "1993",
+"title": "NAPP_2C_6354-8",
+"b": "1993_NAPP_2C_6354-8",
+"x": 563821,
+"y": 4112448,
+"foot": 9140,
+"url": "https://mil.library.ucsb.edu/ap_images/napp-2c/napp-2c_6354-8.tif"
+},
+{
+"tag": "1993",
+"title": "NAPP_2C_6354-33",
+"b": "1993_NAPP_2C_6354-33",
+"x": 574920,
+"y": 4112539,
+"foot": 9140,
+"url": "https://mil.library.ucsb.edu/ap_images/napp-2c/napp-2c_6354-33.tif"
+},
+{
+"tag": "1998",
+"title": "NAPP_3C_10535-62",
+"b": "1998_NAPP_3C_10535-62",
+"x": 563873,
+"y": 4105514,
+"foot": 9140,
+"url": "https://mil.library.ucsb.edu/ap_images/napp-3c/napp-3c_10535-62.tif"
+},
+{
+"tag": "1998",
+"title": "NAPP_3C_10532-95",
+"b": "1998_NAPP_3C_10532-95",
+"x": 569428,
+"y": 4105558,
+"foot": 9140,
+"url": "https://mil.library.ucsb.edu/ap_images/napp-3c/napp-3c_10532-95.tif"
+},
+{
+"tag": "1998",
+"title": "NAPP_3C_10531-254",
+"b": "1998_NAPP_3C_10531-254",
+"x": 569371,
+"y": 4112492,
+"foot": 9140,
+"url": "https://mil.library.ucsb.edu/ap_images/napp-3c/napp-3c_10531-254.tif"
+},
+{
+"tag": "1998",
+"title": "NAPP_3C_10535-64",
+"b": "1998_NAPP_3C_10535-64",
+"x": 563821,
+"y": 4112448,
+"foot": 9140,
+"url": "https://mil.library.ucsb.edu/ap_images/napp-3c/napp-3c_10535-64.tif"
+},
+{
+"tag": "1998",
+"title": "NAPP_3C_10531-171",
+"b": "1998_NAPP_3C_10531-171",
+"x": 574920,
+"y": 4112539,
+"foot": 9140,
+"url": "https://mil.library.ucsb.edu/ap_images/napp-3c/napp-3c_10531-171.tif"
+},
+{
+"tag": "1985",
+"title": "WAC_85CA_13-9",
+"b": "1985_WAC_85CA_13-9",
+"x": 565343,
+"y": 4103521,
+"foot": 7240,
+"url": "https://mil.library.ucsb.edu/ap_images/wac-85ca/wac-85ca_13-9.tif"
+},
+{
+"tag": "1985",
+"title": "WAC_85CA_13-11",
+"b": "1985_WAC_85CA_13-11",
+"x": 565111,
+"y": 4107985,
+"foot": 7240,
+"url": "https://mil.library.ucsb.edu/ap_images/wac-85ca/wac-85ca_13-11.tif"
+},
+{
+"tag": "1985",
+"title": "WAC_85CA_13-13",
+"b": "1985_WAC_85CA_13-13",
+"x": 565036,
+"y": 4111784,
+"foot": 7240,
+"url": "https://mil.library.ucsb.edu/ap_images/wac-85ca/wac-85ca_13-13.tif"
+},
+{
+"tag": "1985",
+"title": "WAC_85CA_13-23",
+"b": "1985_WAC_85CA_13-23",
+"x": 569848,
+"y": 4105765,
+"foot": 7240,
+"url": "https://mil.library.ucsb.edu/ap_images/wac-85ca/wac-85ca_13-23.tif"
+},
+{
+"tag": "1985",
+"title": "WAC_85CA_13-25",
+"b": "1985_WAC_85CA_13-25",
+"x": 569569,
+"y": 4110317,
+"foot": 7240,
+"url": "https://mil.library.ucsb.edu/ap_images/wac-85ca/wac-85ca_13-25.tif"
+},
+{
+"tag": "1985",
+"title": "WAC_85CA_13-26",
+"b": "1985_WAC_85CA_13-26",
+"x": 569447,
+"y": 4112728,
+"foot": 7240,
+"url": "https://mil.library.ucsb.edu/ap_images/wac-85ca/wac-85ca_13-26.tif"
+},
+{
+"tag": "1985",
+"title": "WAC_85CA_13-67",
+"b": "1985_WAC_85CA_13-67",
+"x": 574184,
+"y": 4111391,
+"foot": 7240,
+"url": "https://mil.library.ucsb.edu/ap_images/wac-85ca/wac-85ca_13-67.tif"
+},
+{
+"tag": "1963",
+"title": "CAS_SCR_1-10",
+"b": "1963_CAS_SCR_1-10",
+"x": 565966,
+"y": 4103413,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cas-scr/cas-scr_1-10.tif"
+},
+{
+"tag": "1963",
+"title": "CAS_SCR_1-12",
+"b": "1963_CAS_SCR_1-12",
+"x": 565632,
+"y": 4106441,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cas-scr/cas-scr_1-12.tif"
+},
+{
+"tag": "1963",
+"title": "CAS_SCR_1-14",
+"b": "1963_CAS_SCR_1-14",
+"x": 565311,
+"y": 4109852,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cas-scr/cas-scr_1-14.tif"
+},
+{
+"tag": "1963",
+"title": "CAS_SCR_1-25",
+"b": "1963_CAS_SCR_1-25",
+"x": 568578,
+"y": 4104632,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cas-scr/cas-scr_1-25.tif"
+},
+{
+"tag": "1963",
+"title": "CAS_SCR_1-27",
+"b": "1963_CAS_SCR_1-27",
+"x": 568280,
+"y": 4107753,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cas-scr/cas-scr_1-27.tif"
+},
+{
+"tag": "1963",
+"title": "CAS_SCR_1-29",
+"b": "1963_CAS_SCR_1-29",
+"x": 568080,
+"y": 4111155,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cas-scr/cas-scr_1-29.tif"
+},
+{
+"tag": "1963",
+"title": "CAS_SCR_1-31",
+"b": "1963_CAS_SCR_1-31",
+"x": 568083,
+"y": 4113969,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cas-scr/cas-scr_1-31.tif"
+},
+{
+"tag": "1963",
+"title": "CAS_SCR_1-45",
+"b": "1963_CAS_SCR_1-45",
+"x": 571706,
+"y": 4107531,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cas-scr/cas-scr_1-45.tif"
+},
+{
+"tag": "1963",
+"title": "CAS_SCR_1-47",
+"b": "1963_CAS_SCR_1-47",
+"x": 571691,
+"y": 4110952,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cas-scr/cas-scr_1-47.tif"
+},
+{
+"tag": "1963",
+"title": "CAS_SCR_1-49",
+"b": "1963_CAS_SCR_1-49",
+"x": 571687,
+"y": 4114184,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cas-scr/cas-scr_1-49.tif"
+},
+{
+"tag": "1956",
+"title": "CJA_1956_4R-138",
+"b": "1956_CJA_1956_4R-138",
+"x": 565313,
+"y": 4103810,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cja-1956/cja-1956_4r-138.tif"
+},
+{
+"tag": "1956",
+"title": "CJA_1956_4R-140",
+"b": "1956_CJA_1956_4R-140",
+"x": 565162,
+"y": 4107557,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cja-1956/cja-1956_4r-140.tif"
+},
+{
+"tag": "1956",
+"title": "CJA_1956_4R-142",
+"b": "1956_CJA_1956_4R-142",
+"x": 565075,
+"y": 4110549,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cja-1956/cja-1956_4r-142.tif"
+},
+{
+"tag": "1956",
+"title": "CJA_1956_4R-158",
+"b": "1956_CJA_1956_4R-158",
+"x": 568125,
+"y": 4114159,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cja-1956/cja-1956_4r-158.tif"
+},
+{
+"tag": "1956",
+"title": "CJA_1956_4R-160",
+"b": "1956_CJA_1956_4R-160",
+"x": 568161,
+"y": 4111346,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cja-1956/cja-1956_4r-160.tif"
+},
+{
+"tag": "1956",
+"title": "CJA_1956_4R-162",
+"b": "1956_CJA_1956_4R-162",
+"x": 567815,
+"y": 4108455,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cja-1956/cja-1956_4r-162.tif"
+},
+{
+"tag": "1956",
+"title": "CJA_1956_4R-164",
+"b": "1956_CJA_1956_4R-164",
+"x": 568106,
+"y": 4105136,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cja-1956/cja-1956_4r-164.tif"
+},
+{
+"tag": "1956",
+"title": "CJA_1956_4R-181",
+"b": "1956_CJA_1956_4R-181",
+"x": 571152,
+"y": 4107521,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cja-1956/cja-1956_4r-181.tif"
+},
+{
+"tag": "1956",
+"title": "CJA_1956_4R-183",
+"b": "1956_CJA_1956_4R-183",
+"x": 571172,
+"y": 4110898,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cja-1956/cja-1956_4r-183.tif"
+},
+{
+"tag": "1956",
+"title": "CJA_1956_4R-185",
+"b": "1956_CJA_1956_4R-185",
+"x": 571198,
+"y": 4113594,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cja-1956/cja-1956_4r-185.tif"
+},
+{
+"tag": "1948",
+"title": "CDF5_1-69",
+"b": "1948_CDF5_1-69",
+"x": 567554,
+"y": 4104639,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cdf5/cdf5_1-69.tif"
+},
+{
+"tag": "1948",
+"title": "CDF5_1-70",
+"b": "1948_CDF5_1-70",
+"x": 567455,
+"y": 4106694,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cdf5/cdf5_1-70.tif"
+},
+{
+"tag": "1948",
+"title": "CDF5_1-71",
+"b": "1948_CDF5_1-71",
+"x": 567355,
+"y": 4108749,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cdf5/cdf5_1-71.tif"
+},
+{
+"tag": "1948",
+"title": "CDF5_1-72",
+"b": "1948_CDF5_1-72",
+"x": 567218,
+"y": 4110946,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cdf5/cdf5_1-72.tif"
+},
+{
+"tag": "1948",
+"title": "CDF5_1-73",
+"b": "1948_CDF5_1-73",
+"x": 566919,
+"y": 4113008,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cdf5/cdf5_1-73.tif"
+},
+{
+"tag": "1948",
+"title": "CDF5_1-95",
+"b": "1948_CDF5_1-95",
+"x": 570407,
+"y": 4108476,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cdf5/cdf5_1-95.tif"
+},
+{
+"tag": "1948",
+"title": "CDF5_1-96",
+"b": "1948_CDF5_1-96",
+"x": 570351,
+"y": 4110285,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cdf5/cdf5_1-96.tif"
+},
+{
+"tag": "1948",
+"title": "CDF5_1-97",
+"b": "1948_CDF5_1-97",
+"x": 570241,
+"y": 4111796,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cdf5/cdf5_1-97.tif"
+},
+{
+"tag": "1948",
+"title": "CDF5_1-98",
+"b": "1948_CDF5_1-98",
+"x": 570247,
+"y": 4113614,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cdf5/cdf5_1-98.tif"
+},
+{
+"tag": "1948",
+"title": "CDF5_1-47",
+"b": "1948_CDF5_1-47",
+"x": 563856,
+"y": 4106005,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cdf5/cdf5_1-47.tif"
+},
+{
+"tag": "1941",
+"title": "C_6660_445",
+"b": "1941_C_6660_445",
+"x": 565957,
+"y": 4104341,
+"foot": 5500,
+"url": "https://mil.library.ucsb.edu/ap_images/c-6660/c-6660_445.tif"
+},
+{
+"tag": "1941",
+"title": "C_6660_446",
+"b": "1941_C_6660_446",
+"x": 565893,
+"y": 4106368,
+"foot": 5500,
+"url": "https://mil.library.ucsb.edu/ap_images/c-6660/c-6660_446.tif"
+},
+{
+"tag": "1941",
+"title": "C_6660_447",
+"b": "1941_C_6660_447",
+"x": 565963,
+"y": 4108177,
+"foot": 5500,
+"url": "https://mil.library.ucsb.edu/ap_images/c-6660/c-6660_447.tif"
+},
+{
+"tag": "1941",
+"title": "C_6660_448",
+"b": "1941_C_6660_448",
+"x": 565997,
+"y": 4110112,
+"foot": 5500,
+"url": "https://mil.library.ucsb.edu/ap_images/c-6660/c-6660_448.tif"
+},
+{
+"tag": "1941",
+"title": "C_6660_449",
+"b": "1941_C_6660_449",
+"x": 565960,
+"y": 4112283,
+"foot": 5500,
+"url": "https://mil.library.ucsb.edu/ap_images/c-6660/c-6660_449.tif"
+},
+{
+"tag": "1941",
+"title": "C_6660_217",
+"b": "1941_C_6660_217",
+"x": 570060,
+"y": 4113332,
+"foot": 5500,
+"url": "https://mil.library.ucsb.edu/ap_images/c-6660/c-6660_217.tif"
+},
+{
+"tag": "1941",
+"title": "C_6660_218",
+"b": "1941_C_6660_218",
+"x": 569988,
+"y": 4111586,
+"foot": 5500,
+"url": "https://mil.library.ucsb.edu/ap_images/c-6660/c-6660_218.tif"
+},
+{
+"tag": "1998",
+"title": "NAPP_3C_10532-86",
+"b": "1998_NAPP_3C_10532-86",
+"x": 574982,
+"y": 4105605,
+"foot": 9140,
+"url": "https://mil.library.ucsb.edu/ap_images/napp-3c/napp-3c_10532-86.tif"
+},
+{
+"tag": "1993",
+"title": "NAPP_2C_6354-35",
+"b": "1993_NAPP_2C_6354-35",
+"x": 574982,
+"y": 4105605,
+"foot": 9140,
+"url": "https://mil.library.ucsb.edu/ap_images/napp-2c/napp-2c_6354-35.tif"
+},
+{
+"tag": "1985",
+"title": "WAC_85CA_13-22",
+"b": "1985_WAC_85CA_13-22",
+"x": 569800,
+"y": 4103035,
+"foot": 7240,
+"url": "https://mil.library.ucsb.edu/ap_images/wac-85ca/wac-85ca_13-22.tif"
+},
+{
+"tag": "1985",
+"title": "WAC_85CA_13-24",
+"b": "1985_WAC_85CA_13-24",
+"x": 569768,
+"y": 4108266,
+"foot": 7240,
+"url": "https://mil.library.ucsb.edu/ap_images/wac-85ca/wac-85ca_13-24.tif"
+},
+{
+"tag": "1985",
+"title": "WAC_85CA_13-63",
+"b": "1985_WAC_85CA_13-63",
+"x": 574360,
+"y": 4101569,
+"foot": 7240,
+"url": "https://mil.library.ucsb.edu/ap_images/wac-85ca/wac-85ca_13-63.tif"
+},
+{
+"tag": "1985",
+"title": "WAC_85CA_13-64",
+"b": "1985_WAC_85CA_13-64",
+"x": 574242,
+"y": 4104248,
+"foot": 7240,
+"url": "https://mil.library.ucsb.edu/ap_images/wac-85ca/wac-85ca_13-64.tif"
+},
+{
+"tag": "1985",
+"title": "WAC_85CA_13-65",
+"b": "1985_WAC_85CA_13-65",
+"x": 574369,
+"y": 4106600,
+"foot": 7240,
+"url": "https://mil.library.ucsb.edu/ap_images/wac-85ca/wac-85ca_13-65.tif"
+},
+{
+"tag": "1985",
+"title": "WAC_85CA_13-66",
+"b": "1985_WAC_85CA_13-66",
+"x": 574535,
+"y": 4108786,
+"foot": 7240,
+"url": "https://mil.library.ucsb.edu/ap_images/wac-85ca/wac-85ca_13-66.tif"
+},
+{
+"tag": "1985",
+"title": "WAC_85CA_13-68",
+"b": "1985_WAC_85CA_13-68",
+"x": 574224,
+"y": 4113304,
+"foot": 7240,
+"url": "https://mil.library.ucsb.edu/ap_images/wac-85ca/wac-85ca_13-68.tif"
+},
+{
+"tag": "1963",
+"title": "CAS_SCR_1-24",
+"b": "1963_CAS_SCR_1-24",
+"x": 568674,
+"y": 4102851,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cas-scr/cas-scr_1-24.tif"
+},
+{
+"tag": "1963",
+"title": "CAS_SCR_1-42",
+"b": "1963_CAS_SCR_1-42",
+"x": 571479,
+"y": 4102993,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cas-scr/cas-scr_1-42.tif"
+},
+{
+"tag": "1963",
+"title": "CAS_SCR_1-43",
+"b": "1963_CAS_SCR_1-43",
+"x": 571408,
+"y": 4104391,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cas-scr/cas-scr_1-43.tif"
+},
+{
+"tag": "1963",
+"title": "CAS_SCR_1-44",
+"b": "1963_CAS_SCR_1-44",
+"x": 571510,
+"y": 4105781,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cas-scr/cas-scr_1-44.tif"
+},
+{
+"tag": "1963",
+"title": "CAS_SCR_1-46",
+"b": "1963_CAS_SCR_1-46",
+"x": 571596,
+"y": 4109337,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cas-scr/cas-scr_1-46.tif"
+},
+{
+"tag": "1963",
+"title": "CAS_SCR_1-48",
+"b": "1963_CAS_SCR_1-48",
+"x": 571800,
+"y": 4112721,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cas-scr/cas-scr_1-48.tif"
+},
+{
+"tag": "1963",
+"title": "CAS_SCR_1-60",
+"b": "1963_CAS_SCR_1-60",
+"x": 575309,
+"y": 4102429,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cas-scr/cas-scr_1-60.tif"
+},
+{
+"tag": "1963",
+"title": "CAS_SCR_1-62",
+"b": "1963_CAS_SCR_1-62",
+"x": 575175,
+"y": 4105384,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cas-scr/cas-scr_1-62.tif"
+},
+{
+"tag": "1963",
+"title": "CAS_SCR_1-64",
+"b": "1963_CAS_SCR_1-64",
+"x": 575145,
+"y": 4107656,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cas-scr/cas-scr_1-64.tif"
+},
+{
+"tag": "1963",
+"title": "CAS_SCR_1-66",
+"b": "1963_CAS_SCR_1-66",
+"x": 575134,
+"y": 4110770,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cas-scr/cas-scr_1-66.tif"
+},
+{
+"tag": "1963",
+"title": "CAS_SCR_1-67",
+"b": "1963_CAS_SCR_1-67",
+"x": 574955,
+"y": 4112405,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cas-scr/cas-scr_1-67.tif"
+},
+{
+"tag": "1956",
+"title": "CJA_1956_4R-166",
+"b": "1956_CJA_1956_4R-166",
+"x": 568576,
+"y": 4101754,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cja-1956/cja-1956_4r-166.tif"
+},
+{
+"tag": "1956",
+"title": "CJA_1956_4R-178",
+"b": "1956_CJA_1956_4R-178",
+"x": 571388,
+"y": 4102598,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cja-1956/cja-1956_4r-178.tif"
+},
+{
+"tag": "1956",
+"title": "CJA_1956_4R-179",
+"b": "1956_CJA_1956_4R-179",
+"x": 571318,
+"y": 4104276,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cja-1956/cja-1956_4r-179.tif"
+},
+{
+"tag": "1956",
+"title": "CJA_1956_4R-180",
+"b": "1956_CJA_1956_4R-180",
+"x": 571253,
+"y": 4105844,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cja-1956/cja-1956_4r-180.tif"
+},
+{
+"tag": "1956",
+"title": "CJA_1956_4R-182",
+"b": "1956_CJA_1956_4R-182",
+"x": 571094,
+"y": 4109342,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cja-1956/cja-1956_4r-182.tif"
+},
+{
+"tag": "1956",
+"title": "CJA_1956_9R-54",
+"b": "1956_CJA_1956_9R-54",
+"x": 574560,
+"y": 4102708,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cja-1956/cja-1956_9r-54.tif"
+},
+{
+"tag": "1956",
+"title": "CJA_1956_9R-53",
+"b": "1956_CJA_1956_9R-53",
+"x": 574671,
+"y": 4104204,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cja-1956/cja-1956_9r-53.tif"
+},
+{
+"tag": "1956",
+"title": "CJA_1956_9R-52",
+"b": "1956_CJA_1956_9R-52",
+"x": 574780,
+"y": 4105806,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cja-1956/cja-1956_9r-52.tif"
+},
+{
+"tag": "1956",
+"title": "CJA_1956_9R-51",
+"b": "1956_CJA_1956_9R-51",
+"x": 574601,
+"y": 4107663,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cja-1956/cja-1956_9r-51.tif"
+},
+{
+"tag": "1956",
+"title": "CJA_1956_9R-50",
+"b": "1956_CJA_1956_9R-50",
+"x": 574560,
+"y": 4109387,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cja-1956/cja-1956_9r-50.tif"
+},
+{
+"tag": "1956",
+"title": "CJA_1956_9R-49",
+"b": "1956_CJA_1956_9R-49",
+"x": 574465,
+"y": 4110719,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cja-1956/cja-1956_9r-49.tif"
+},
+{
+"tag": "1956",
+"title": "CJA_1956_9R-48",
+"b": "1956_CJA_1956_9R-48",
+"x": 574657,
+"y": 4112191,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cja-1956/cja-1956_9r-48.tif"
+},
+{
+"tag": "1948",
+"title": "CDF5_1-68",
+"b": "1948_CDF5_1-68",
+"x": 567654,
+"y": 4102583,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cdf5/cdf5_1-68.tif"
+},
+{
+"tag": "1948",
+"title": "CDF5_1-92",
+"b": "1948_CDF5_1-92",
+"x": 570674,
+"y": 4102609,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cdf5/cdf5_1-92.tif"
+},
+{
+"tag": "1948",
+"title": "CDF5_1-93",
+"b": "1948_CDF5_1-93",
+"x": 570586,
+"y": 4104776,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cdf5/cdf5_1-93.tif"
+},
+{
+"tag": "1948",
+"title": "CDF5_1-94",
+"b": "1948_CDF5_1-94",
+"x": 570515,
+"y": 4106373,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cdf5/cdf5_1-94.tif"
+},
+{
+"tag": "1948",
+"title": "CDF5_4-7",
+"b": "1948_CDF5_4-7",
+"x": 573819,
+"y": 4102649,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cdf5/cdf5_4-7.tif"
+},
+{
+"tag": "1948",
+"title": "CDF5_4-8",
+"b": "1948_CDF5_4-8",
+"x": 573756,
+"y": 4104552,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cdf5/cdf5_4-8.tif"
+},
+{
+"tag": "1948",
+"title": "CDF5_4-9",
+"b": "1948_CDF5_4-9",
+"x": 573693,
+"y": 4106454,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cdf5/cdf5_4-9.tif"
+},
+{
+"tag": "1948",
+"title": "CDF5_4-10",
+"b": "1948_CDF5_4-10",
+"x": 573631,
+"y": 4108357,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cdf5/cdf5_4-10.tif"
+},
+{
+"tag": "1948",
+"title": "CDF5_4-11",
+"b": "1948_CDF5_4-11",
+"x": 573568,
+"y": 4110259,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cdf5/cdf5_4-11.tif"
+},
+{
+"tag": "1948",
+"title": "CDF5_4-12",
+"b": "1948_CDF5_4-12",
+"x": 573505,
+"y": 4112162,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cdf5/cdf5_4-12.tif"
+},
+{
+"tag": "1948",
+"title": "CDF5_2-36",
+"b": "1948_CDF5_2-36",
+"x": 576947,
+"y": 4105545,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cdf5/cdf5_2-36.tif"
+},
+{
+"tag": "1948",
+"title": "CDF5_2-38",
+"b": "1948_CDF5_2-38",
+"x": 576816,
+"y": 4109600,
+"foot": 4570,
+"url": "https://mil.library.ucsb.edu/ap_images/cdf5/cdf5_2-38.tif"
+},
+{
+"tag": "1941",
+"title": "C_6660_444",
+"b": "1941_C_6660_444",
+"x": 566222,
+"y": 4102510,
+"foot": 5500,
+"url": "https://mil.library.ucsb.edu/ap_images/c-6660/c-6660_444.tif"
+},
+{
+"tag": "1941",
+"title": "C_6660_440",
+"b": "1941_C_6660_440",
+"x": 576418,
+"y": 4112885,
+"foot": 5500,
+"url": "https://mil.library.ucsb.edu/ap_images/c-6660/c-6660_440.tif"
+},
+{
+"tag": "1941",
+"title": "C_6660_441",
+"b": "1941_C_6660_441",
+"x": 576467,
+"y": 4111334,
+"foot": 5500,
+"url": "https://mil.library.ucsb.edu/ap_images/c-6660/c-6660_441.tif"
+},
+{
+"tag": "1941",
+"title": "C_7054_276",
+"b": "1941_C_7054_276",
+"x": 569236,
+"y": 4102645,
+"foot": 3540,
+"url": "https://mil.library.ucsb.edu/ap_images/c-7054/c-7054_276.tif"
+},
+{
+"tag": "1941",
+"title": "C_7054_277",
+"b": "1941_C_7054_277",
+"x": 570549,
+"y": 4102031,
+"foot": 3540,
+"url": "https://mil.library.ucsb.edu/ap_images/c-7054/c-7054_277.tif"
+},
+{
+"tag": "1941",
+"title": "C_7054_278",
+"b": "1941_C_7054_278",
+"x": 572120,
+"y": 4101309,
+"foot": 3540,
+"url": "https://mil.library.ucsb.edu/ap_images/c-7054/c-7054_278.tif"
+}
+]
